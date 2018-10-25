@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<config>
+
+<!--  哥学测试服务器地址 -->
+
+<minaserver1 host="192.168.1.2" port="11886" />
+<policyserver1 host="192.168.1.2" port="8430" />
+<httpserver1 url="http://192.168.1.2:8097"/>
+<!-- <fmsserver1 url="rtmp://192.168.1.234:1936/live"/> -->
+<!-- <fmsserver1 url="rtmp://192.168.1.2:9000/live"/> -->
+
+<!-- <fmsserver1 url="rtmp://192.168.1.144/live"/> -->
+<!-- <fmsserver1 url="rtmp://192.168.1.234/live"/> -->
+<!-- <fmsserver1 url="rtmp://192.168.1.2:1935/FMSServer"/> -->
+<fmsserver1 url="rtmp://jqrfms.tangdi.net:1935/FMSServer"/>
+
+<!-- <minaserver1 host="192.168.1.169" port="11886" /> -->
+<!-- <policyserver1 host="192.168.1.169" port="8430" /> -->
+<!-- <httpserver1 url="http://192.168.1.169:8097"/> -->
+<!-- <fmsserver1 url="rtmp://192.168.1.234:1936/live"/> -->
+<!-- <fmsserver1 url="rtmp://192.168.1.2:9000/live"/> -->
+
+
+</config>
